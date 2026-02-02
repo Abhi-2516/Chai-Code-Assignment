@@ -13,6 +13,10 @@ The resume is hosted using **Netlify**.
 👉 [Live Link (Netlify)](https://abhishek-html-resume.netlify.app/)
 
 ---
+## 📸 Resume Preview
+
+![HTML Resume Preview](resume.png)
+
 ## 🎯 Assignment Objective
 
 * Build a resume webpage using **only HTML**

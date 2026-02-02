@@ -1,6 +1,6 @@
-# ChaiCode Assignments ☕💻
+# ChaiCode Assignments ☕
 
-This repository contains all the assignments completed as part of the **ChaiCode Web Development Cohort**.
+This repository contains all the assignments completed as part of the **ChaiCode Cohort**.
 
 Each assignment is organized into a separate folder for clarity, scalability, and easy navigation.
 
@@ -48,3 +48,4 @@ Full Stack Developer | Cloud & DevOps Enthusiast
 ---
 
 > "Consistency beats intensity — one assignment at a time." ☕
+

@@ -3,7 +3,16 @@
 This assignment involves creating a **resume using pure HTML only**, without using any CSS or JavaScript. The goal is to understand and apply **basic HTML structure, semantic tags, and clean document organization**.
 
 ---
+---
 
+## 🌐 Live Demo
+
+The resume is hosted using **Netlify**.
+
+🔗 **Live Link:**
+👉 [Live Link (Netlify)](https://abhishek-html-resume.netlify.app/)
+
+---
 ## 🎯 Assignment Objective
 
 * Build a resume webpage using **only HTML**
@@ -29,16 +38,7 @@ html-resume-page/
 > ❌ No CSS
 > ❌ No JavaScript
 
----
 
-## 🌐 Live Demo
-
-The resume is hosted using **Netlify**.
-
-🔗 **Live Link:**
-👉 [Live Link (Netlify)](https://abhishek-html-resume.netlify.app/)
-
----
 
 ## ✨ Key Highlights
 

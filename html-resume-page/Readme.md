@@ -3,6 +3,14 @@
 This assignment involves creating a **resume using pure HTML only**, without using any CSS or JavaScript. The goal is to understand and apply **basic HTML structure, semantic tags, and clean document organization**.
 
 ---
+## 🎯 Assignment Objective
+
+* Build a resume webpage using **only HTML**
+* Use proper headings, lists, tables, and semantic structure
+* Ensure the resume is clean, readable, and submission-ready
+* Make it suitable for **ATS and academic evaluation**
+
+---
 ---
 
 ## 🌐 Live Demo
@@ -17,14 +25,7 @@ The resume is hosted using **Netlify**.
 
 ![HTML Resume Preview](resume.png)
 
-## 🎯 Assignment Objective
 
-* Build a resume webpage using **only HTML**
-* Use proper headings, lists, tables, and semantic structure
-* Ensure the resume is clean, readable, and submission-ready
-* Make it suitable for **ATS and academic evaluation**
-
----
 
 ## 📂 Folder Structure
 
